@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "XE1Lh5EE1qJRIFAzhQVkWA7AoH9QX7e7jIbSc3uSRHpoqtEu+w9zDmwLZUKfvtK9L4cD1imRRLrIFO+qFE45TQ==",
+  "dgSpecHash": "M3xO/1TSiWQpi6J6baLSQU75x/bCPMiC9yAsbzkoapJe9hggsWJIp6oY0wftiMk+ptcKhORsNr7wbmZ1+gVvjg==",
   "success": true,
-  "projectFilePath": "D:\\שיעורי בית\\Git\\ProjectGit\\ProjectGit\\ProjectGit\\ProjectGit.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Documents\\Git\\ProjectGit\\ProjectGit\\ProjectGit\\ProjectGit.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\user1\\Documents\\Git\\ProjectGit\\ProjectGit\\ProjectGit\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

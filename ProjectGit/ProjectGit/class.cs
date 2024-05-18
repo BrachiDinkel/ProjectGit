@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProjectGit
+{
+    public class Class
+    {
+        public int NewNumber(int number)
+        {
+            return number+10;
+        }
+    }
+}
