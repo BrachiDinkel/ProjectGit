@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\שיעורי בית\\ProjectGit\\ProjectGit\\ProjectGit\\ProjectGit.csproj",
+      "projectUniqueName": "D:\\שיעורי בית\\Git\\ProjectGit\\ProjectGit\\ProjectGit\\ProjectGit.csproj",
       "projectName": "ProjectGit",
-      "projectPath": "D:\\שיעורי בית\\ProjectGit\\ProjectGit\\ProjectGit\\ProjectGit.csproj",
+      "projectPath": "D:\\שיעורי בית\\Git\\ProjectGit\\ProjectGit\\ProjectGit\\ProjectGit.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\שיעורי בית\\ProjectGit\\ProjectGit\\ProjectGit\\obj\\",
+      "outputPath": "D:\\שיעורי בית\\Git\\ProjectGit\\ProjectGit\\ProjectGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
